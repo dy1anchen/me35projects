@@ -1,0 +1,7 @@
+0 charmander
+1 bulbasaur
+2 snorlax
+3 pikachu
+4 pokeball
+5 nidoran
+6 squirtle
